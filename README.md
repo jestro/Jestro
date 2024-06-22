@@ -1,5 +1,5 @@
 ### About Me:
-Undergraduate student applied computer science 🎓
+Undergraduate student applied computer science 🎓<br>
 I enjoy:
 - Working out 🏋️‍♂️
 - Playing games 💻
