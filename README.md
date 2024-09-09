@@ -1,5 +1,6 @@
 ### About Me
 Hi, I am Jestro, an undergraduate student from Belgium currently pursuing a degree in Applied Computer Science. My academic focus is on cybersecurity.
+
 Outside of my studies, I’m passionate about staying active. Whether it's working out at the gym or exploring the outdoors on hikes and walks. In my downtime, I immerse myself in video games and philosophical ideas.
 
 ### Proficient
