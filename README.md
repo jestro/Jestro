@@ -1,5 +1,6 @@
 ### About Me
-- Undergraduate student applied computer science 🎓
+- Undergraduate applied CS student 🎓
+  - Currently doing cyber security 🛡️
 - Work out 🏋️‍♂️
 - Walks and hikes 🥾
 - Play games 💻
