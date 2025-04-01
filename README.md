@@ -1,5 +1,5 @@
 ### About Me
-Hi, I am Jestro, an undergraduate student from Belgium currently pursuing a degree in Applied Computer Science. My academic focus is on cybersecurity.
+Hi, I am Jestro, an undergraduate student from Belgium currently pursuing a bachelor degree in Cyber Security from Howest. I did 3 semesters in Applied Computer Science, although I enjoyed developing I am more interested in security.
 
 Outside of my studies, I’m passionate about staying active. Whether it's working out at the gym or exploring the outdoors on hikes and walks. In my downtime, I immerse myself in video games and philosophical ideas.
 
